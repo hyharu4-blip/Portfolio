@@ -139,6 +139,13 @@ h2{
         セクション・SNS ＆ お問い合わせ
     ====================================== */
 
+.contact{
+    text-align: center;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
 
 
 /*  ======================================
